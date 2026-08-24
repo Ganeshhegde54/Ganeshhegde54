@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values. Values are 0-100; 5-8 axes reads best.",
+  "axes": [
+    { "label": "Java",          "value": 78 },
+    { "label": "Spring Boot",   "value": 75 },
+    { "label": "Python",        "value": 68 },
+    { "label": "SQL",           "value": 72 },
+    { "label": "REST APIs",     "value": 76 },
+    { "label": "DSA",           "value": 70 },
+    { "label": "AI / GenAI",    "value": 65 }
+  ]
+}

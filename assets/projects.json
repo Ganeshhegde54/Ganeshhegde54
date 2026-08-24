@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "e-governance",
+      "description": "A cloud-native e-governance platform enabling citizens to report and track civic issues with secure authentication, complaint management, and AI-powered automation."
+    },
+    {
+      "repo": "invoice-reconciliation",
+      "description": "A finance automation platform for invoice management, GL mapping, bank reconciliation, audit trails, and financial reporting."
+    },
+    {
+      "repo": "rag-pdf-chatbot",
+      "description": "A Retrieval-Augmented Generation chatbot that enables semantic question answering across multiple PDF documents."
+    },
+    {
+      "repo": "digital-image-steganography",
+      "description": "A Spring Boot REST API that securely hides and extracts secret text within images using LSB steganography and AES encryption."
+    }
+  ]
+}
